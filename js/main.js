@@ -38,7 +38,7 @@ window.addEventListener('load', function () {
     }
 
     //TIMER
-    let endTime = '2019-07-20',
+    let endTime = '2021-07-20',
         seconds = document.getElementsByClassName('seconds')[0],
         minutes = document.getElementsByClassName('minutes')[0],
         hours = document.getElementsByClassName('hours')[0],
